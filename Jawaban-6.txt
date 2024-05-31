@@ -1,0 +1,1 @@
+Resoult API adalah yang mengikuti arsitektur REST yang mendukung komunikasi antara aplikasi dan pengguna 
